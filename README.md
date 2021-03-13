@@ -1,6 +1,8 @@
-# my_planning_poker
+# Planning Poker
 
-A new Flutter project.
+An application for planning poker. Fully customisable.
+
+![GitHub App Image](/app_img.png)
 
 ## Getting Started
 
